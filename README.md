@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/Saravanakumar1210/saravanakumar1210s/blob/main/narmadha%20gif.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=narmadha04&label=Profile%20views&color=0e75b6&style=flat" alt="narmadha04" /> </p>
+<p align="left"> <img src="https://github.com/jupassamani/jupassamani" alt="Aishwariyaa"/> </p>
 
 - 🔭 I'm a **College student** currently studying at **TCE**.
 - 🌱 I’m currently pursuing **M.Sc Data Science**.
