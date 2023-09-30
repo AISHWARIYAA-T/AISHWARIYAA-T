@@ -2,7 +2,7 @@
 
 <h3 align="center">Student, Explorer, Coder!</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/jupassamani/jupassamani">
+<img align="right" alt="coding" width="400" src="https://github.com/Saravanakumar1210/saravanakumar1210s/blob/main/narmadha%20gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narmadha04&label=Profile%20views&color=0e75b6&style=flat" alt="Aishwariyaa"/> </p>
 
