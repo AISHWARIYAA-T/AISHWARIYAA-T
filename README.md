@@ -37,8 +37,4 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narmadha04&show_icons=true&locale=en&layout=compact" alt="narmadha04" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=narmadha04&show_icons=true&locale=en" alt="narmadha04" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narmadha04&" alt="narmadha04" /></p>
